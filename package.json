@@ -8,6 +8,7 @@
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {
+    "@chakra-ui/react": "1.6.6",
     "next": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
